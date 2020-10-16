@@ -25,5 +25,11 @@ button{
     text-align: center;
     width: 100%;
     margin: 0 auto;
-    
+    border-radius: 25px;
+}
+
+blockquote{
+    color: #69696a;
+    border-left: solid 5px #69696a;
+    padding: 10%;
 }
